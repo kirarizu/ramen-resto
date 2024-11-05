@@ -125,6 +125,7 @@ p {
   justify-content: center;
   top: -160px;
 }
+
 .summer-coupon a:hover {
   opacity: 0.7;
 }
@@ -133,11 +134,8 @@ p {
   border: #f39939;
   border-style: solid;
   border-width: 5px;
-}
-
-.access-box {
-  color: #f39939;
   margin-right: 50px;
+  color: #f39939;
 }
 
 .access-box p {
